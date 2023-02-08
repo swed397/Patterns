@@ -1,2 +1,0 @@
-# Patterns
-Remember in practice
